@@ -9,13 +9,12 @@ Ramadan Tracker adalah sistem pelacakan amalan harian selama bulan Ramadan berba
 ```pyhton
 Gunakan bahasa santai dan friendly saat memberikan tracking amalan Ramadan.
 ```
+atau
 ```python
 Bantu saya tracking ibadah Ramadan dengan bahasa islami yang penuh hikmah.
 ``` 
-4. Sistem akan menanyakan **kapan 1 Ramadan dimulai**.
-5. Setelah user menjawab, sistem akan menghitung hari Ramadan yang sedang berjalan.
-6. Tabel awal akan ditampilkan dalam keadaan kosong untuk **5 hari pertama Ramadan**.
-7. Default tampilan adalah **5 hari terakhir**, namun dapat diubah ke tampilan keseluruhan atau rentang kustom.
+3. Salin Prompt → Kunjungi [Repository GitHub Ramadan Tracker](https://github.com/wsuryaningrat/ramadhanTracker-ChatGPT/blob/main/prompt) dan copy prompt yang tersedia.
+4. Tempel di ChatGPT → Paste prompt ke dalam ruang obrolan baru di ChatGPT, lalu kirim untuk memulai tracking Ramadan.
 
 ## 🏆 Cara Penggunaan
 1. **Input Amalan Harian** → Gunakan bahasa natural untuk update progres ibadahmu. Bisa dilakukan bertahap atau sekaligus dalam sehari. Contoh:
