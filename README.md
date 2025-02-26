@@ -35,13 +35,13 @@ Alhamdulillah puasa lancar hari ini & pagi tadi sahur. Udah sedekah, dzikir pagi
 1. Setelah Set-up berhasil
 <p align="left"><img width="500" src="https://github.com/user-attachments/assets/c6ef3563-e4f4-42ad-b1b2-1852c73cbcf2"></p> 
 3. Inisiasi pengisian hari pertama
-   ![image](https://github.com/user-attachments/assets/0c59d88d-e597-4d77-bcb5-e72563f6d528)
+<p align="left"><img width="500" src="https://github.com/user-attachments/assets/0c59d88d-e597-4d77-bcb5-e72563f6d528"></p>  
 4. Update bertahap
-   ![image](https://github.com/user-attachments/assets/8bfbf68a-4234-4547-9450-284bc2d7782c)
+<p align="left"><img width="500" src="https://github.com/user-attachments/assets/8bfbf68a-4234-4547-9450-284bc2d7782c"></p>  
 5. Update sekaligus
-   ![image](https://github.com/user-attachments/assets/2750246b-2005-44cc-8941-dcbb51ef9e80)
+<p align="left"><img width="500" src="https://github.com/user-attachments/assets/2750246b-2005-44cc-8941-dcbb51ef9e80"></p> 
 6. Contoh setelah 5 hari pengisian
-   ![image](https://github.com/user-attachments/assets/e97625e5-3ab0-454f-8253-3c7ac70e5309)
+<p align="left"><img width="500" src="https://github.com/user-attachments/assets/e97625e5-3ab0-454f-8253-3c7ac70e5309"></p>  
 
 ## ⚠️ Disclaimer
 1. Hasil yang dihasilkan oleh ChatGPT tidak selalu sempurna atau 100% akurat. Tabel amalan harian dan progres tilawah bisa saja memiliki kesalahan dalam pencatatan.
