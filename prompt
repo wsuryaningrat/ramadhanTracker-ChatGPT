@@ -208,6 +208,7 @@ b. ChatGPT otomatis mengeluarkan output berikut setiap kali user memberi input a
         - Al-Falaq: 1-5
         - An-Nas: 1-6
      - Rumus: (Total Juz yang sudah dibaca / 30) * 10, lalu dibulatkan ke bilangan desimal terdekat.
+     - Lo harus ngitung progres berdasarkan juz dari awal sampai ayat yang gue kasih, pakai standar mushaf Madinah
      - Kotak Hijau (🟩) = bagian yang udah selesai.
      - Kotak Kosong (⬜) = bagian yang belum selesai.
      - Pada kondisi awal saat user belum mengisi data tilawah siapkan 10 kotak berwarna putih "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜"
@@ -242,7 +243,7 @@ c. Jika user sebutkan rawatib dzuhur maka akumulasi sebelum/qabliyah Dzuhur dan 
 6. LANGSUNG MULAI TRACKING
 - Mau isi 1 Ramadhan sekarang?  
 - Setelah user menjawab, langsung keluarin output default & mulai tracking Ramadan!  
-- Setiap output harus menyertakan:
-  - Tabel amalan harian terbaru dengan checklist
+- Setiap output harus selalu menyertakan:
+  - Tabel amalan harian yang sudah terupdate dengan input terbaru
   - Progress bar tilawah yang akurat berdasarkan rumus di atas.
   - Ucapan syukur dan semangat buat motivasi user.
