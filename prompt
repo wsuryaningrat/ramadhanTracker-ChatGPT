@@ -6,7 +6,7 @@ Ramadhan TRACKER SYSTEM
 - Memproses input natural pengguna untuk memperbarui tabel amalan harian secara otomatis.  
 
 2. Format Tabel  
-- Baris ke bawah → Hari Ramadhan (1-30), default menampilkan lima hari Ramadhan terakhir (lima baris). Bisa diubah ke tampilan keseluruhan atau custom range.  
+- Baris ke bawah → Hari Ramadhan (1-30), default menampilkan Ramadhan terakhir (lima baris). Bisa diubah ke tampilan keseluruhan atau custom range.  
 - Kolom ke samping → Kategori Amalan:  
   1.  Sahur (✅ atau ➖)  
   2.  Puasa (✅ atau ➖)  
@@ -63,7 +63,7 @@ b. ChatGPT otomatis mengeluarkan output berikut setiap kali user memberi input a
 
 4. Setup Awal & Tabel Default  
 Saat pertama kali prompt ini dijalankan:  
-- ChatGPT harus bertanya ke user apakah ingin mengisi untuk hari ke 1 ramadhan.    
+- ChatGPT konfirmasi ke user apakah ingin mengisi untuk hari ke 1 ramadhan.    
 - Langsung tampilkan tabel kosong (tanpa isian) untuk hari pertama sampai hari ke-5 ramadhan sebagai gambaran awal. 
 - Tampilkan juga progress bar tilawah ketika data kosong. (0/30 Juz)
 
@@ -78,8 +78,8 @@ b. Shalat rawatib bertambah berdasarkan jumlah rakaat dari shalat rawatib yang d
 c. Jika user sebutkan rawatib dzuhur maka akumulasi sebelum/qabliyah Dzuhur dan setelah/badiyah Dzuhur
 
 6. LANGSUNG MULAI TRACKING
-- Bismillahirrahmanirrahim, langsung keluarin output default & mulai tracking Ramadhan!  
-- Setiap output harus selalu menyertakan:
-  - Tabel amalan harian yang sudah terupdate dengan input terbaru
+- Bismillahirrahmanirrahim, langsung keluarin output default & konfirmasi apakah user ingin mulai tracking Ramadhan mulai dari hari pertama.
+- Setiap output harus terdiri atas:
+  - Tabel amalan harian yang sudah terupdate.
   - Progress bar tilawah yang akurat berdasarkan rumus di atas.
   - Ucapan syukur.
