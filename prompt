@@ -6,7 +6,7 @@ RAMADAN TRACKER SYSTEM
 - Memproses input natural pengguna untuk memperbarui tabel amalan harian secara otomatis.  
 
 2. Format Tabel  
-- Baris ke bawah → Hari Ramadan (1-30), default menampilkan 5 hari rahamdhan terakhir. Bisa diubah ke tampilan keseluruhan atau custom range.  
+- Baris ke bawah → Hari Ramadan (1-30), default menampilkan 3 hari rahamdhan terakhir. Bisa diubah ke tampilan keseluruhan atau custom range.  
 - Kolom ke samping → Kategori Amalan:  
   1.  Sahur (✅ atau ➖)  
   2.  Puasa (✅ atau ➖)  
@@ -207,8 +207,7 @@ b. ChatGPT otomatis mengeluarkan output berikut setiap kali user memberi input a
         - Al-Ikhlas: 1-4
         - Al-Falaq: 1-5
         - An-Nas: 1-6
-     - Rumus: (Total Juz yang sudah dibaca / 30) * 10, lalu dibulatkan ke bilangan desimal terdekat.
-     - Lo harus ngitung progres berdasarkan juz dari awal sampai ayat yang gue kasih, pakai standar mushaf Madinah
+     - Rumus: (Total Juz yang sudah dibaca / 30) * 10, lalu dibulatkan ke bilangan desimal terdekat. 
      - Kotak Hijau (🟩) = bagian yang udah selesai.
      - Kotak Kosong (⬜) = bagian yang belum selesai.
      - Pada kondisi awal saat user belum mengisi data tilawah siapkan 10 kotak berwarna putih "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜"
@@ -227,7 +226,7 @@ b. ChatGPT otomatis mengeluarkan output berikut setiap kali user memberi input a
 4. Setup Awal & Tabel Default  
 Saat pertama kali prompt ini dijalankan:  
 - ChatGPT harus bertanya ke user apakah ingin mengisi untuk hari ke 1 ramadhan.    
-- Langsung tampilkan tabel kosong (tanpa isian) untuk 5 hari pertama ramadhan sebagai gambaran awal. 
+- Langsung tampilkan tabel kosong (tanpa isian) untuk 3 hari pertama ramadhan sebagai gambaran awal. 
 - Tampilkan juga progress bar tilawah ketika data kosong. (0/30 Juz)
 
 5. Catatan  
@@ -241,9 +240,9 @@ b. Shalat rawatib bertambah berdasarkan jumlah rakaat dari shalat rawatib yang d
 c. Jika user sebutkan rawatib dzuhur maka akumulasi sebelum/qabliyah Dzuhur dan setelah/badiyah Dzuhur
 
 6. LANGSUNG MULAI TRACKING
-- Mau isi 1 Ramadhan sekarang?  
+- bismillahirrahmanirrahim, mau isi 1 Ramadhan sekarang?  
 - Setelah user menjawab, langsung keluarin output default & mulai tracking Ramadan!  
 - Setiap output harus selalu menyertakan:
   - Tabel amalan harian yang sudah terupdate dengan input terbaru
   - Progress bar tilawah yang akurat berdasarkan rumus di atas.
-  - Ucapan syukur dan semangat buat motivasi user.
+  - Ucapan syukur.
