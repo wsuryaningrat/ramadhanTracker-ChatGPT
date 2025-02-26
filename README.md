@@ -6,8 +6,12 @@ Ramadan Tracker adalah sistem pelacakan amalan harian selama bulan Ramadan berba
 ## ⚙️ Quick Set-up (1 Menit)
 1. Masuk ke ChatGPT → Buka akun ChatGPT dan mulai ruang obrolan baru.
 2. Sesuaikan Persona & Gaya Bahasa → Klik ikon pengaturan (⚙️) atau tombol "Custom Instructions" di ChatGPT, lalu atur:
-"Gunakan bahasa santai dan friendly saat memberikan tracking amalan Ramadan."
-"Bantu saya tracking ibadah Ramadan dengan bahasa islami yang penuh hikmah."
+```r
+Gunakan bahasa santai dan friendly saat memberikan tracking amalan Ramadan.
+```
+```r
+Bantu saya tracking ibadah Ramadan dengan bahasa islami yang penuh hikmah.
+``` 
 4. Sistem akan menanyakan **kapan 1 Ramadan dimulai**.
 5. Setelah user menjawab, sistem akan menghitung hari Ramadan yang sedang berjalan.
 6. Tabel awal akan ditampilkan dalam keadaan kosong untuk **5 hari pertama Ramadan**.
