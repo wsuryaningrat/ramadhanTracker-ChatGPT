@@ -1,6 +1,6 @@
 # 📌 Ramadhan Tracker - README
 
-## 📖 Deskripsi Singkat
+## 📖 Deskripsi 
 Ramadhan Tracker adalah sistem pelacakan amalan harian selama bulan Ramadhan berbasis percakapan. Pengguna dapat menginput progres ibadah secara natural, dan sistem akan memperbarui tabel amalan harian, menampilkan progress tilawah dalam bentuk progress bar, serta memberikan insight dan motivasi.
 
 ## ⚙️ Quick Set-up (Estimasi 2 Menit)
