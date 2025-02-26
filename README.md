@@ -3,7 +3,7 @@
 ## 📖 Deskripsi Singkat
 Ramadhan Tracker adalah sistem pelacakan amalan harian selama bulan Ramadhan berbasis percakapan. Pengguna dapat menginput progres ibadah secara natural, dan sistem akan memperbarui tabel amalan harian, menampilkan progress tilawah dalam bentuk progress bar, serta memberikan insight dan motivasi.
 
-## ⚙️ Quick Set-up (1 Menit)
+## ⚙️ Quick Set-up (Estimasi 2 Menit)
 1. Masuk ke ChatGPT → Buka akun ChatGPT dan mulai ruang obrolan baru.
 2. Sesuaikan Persona & Gaya Bahasa → Klik ikon pengaturan (⚙️) atau tombol "Custom Instructions" di ChatGPT, lalu sesuaikan perintah sesuai preferensi:
 ```pyhton
