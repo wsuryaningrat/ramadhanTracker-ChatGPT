@@ -4,13 +4,13 @@
 Ramadhan Tracker adalah sistem pelacakan amalan harian selama bulan Ramadhan berbasis percakapan. Pengguna dapat menginput progres ibadah secara natural, dan sistem akan memperbarui tabel amalan harian, menampilkan progress tilawah dalam bentuk progress bar, serta memberikan insight dan motivasi. Thanks to [OpenAI](https://openai.com/index/memory-and-new-controls-for-chatgpt/) yang telah merilis fitur "Memory" di ChatGPT, sehingga proyek ini bisa dibuat.
 
 ## 🚀 Features
-📊 Amalan Harian – Melacak ibadah harian seperti shalat, puasa, tilawah, dzikir, dan lainnya.
-📈 Progress Tilawah – Menampilkan progress membaca Quran dengan indikator ayat terakhir dan juz.
-🔄 Input Fleksibel – Bisa update amalan satu per satu atau sekaligus dalam sehari dengan bahasa natural.
-🎨 Tampilan Dinamis – Opsi tampilan dalam bentuk persentase, angka, atau indikator warna.
-💬 Persona Kustom – Bisa menyesuaikan gaya bahasa ChatGPT sesuai preferensi pengguna.
-📅 Tampilan Fleksibel – Default menampilkan 5 hari terakhir, bisa diubah ke semua hari atau rentang tertentu.
-⚡ Quick Setup – Cukup copy-paste prompt dan mulai tracking.
+- 📊 Amalan Harian – Melacak ibadah harian seperti shalat, puasa, tilawah, dzikir, dan lainnya.
+- 📈 Progress Tilawah – Menampilkan progress membaca Quran dengan indikator ayat terakhir dan juz.
+- 🔄 Input Fleksibel – Bisa update amalan satu per satu atau sekaligus dalam sehari dengan bahasa natural.
+- 🎨 Tampilan Dinamis – Opsi tampilan dalam bentuk persentase, angka, atau indikator warna.
+- 💬 Persona Kustom – Bisa menyesuaikan gaya bahasa ChatGPT sesuai preferensi pengguna.
+- 📅 Tampilan Fleksibel – Default menampilkan 5 hari terakhir, bisa diubah ke semua hari atau rentang tertentu.
+- ⚡ Quick Setup – Cukup copy-paste prompt dan mulai tracking.
 
 ## ⚙️ Quick Set-up (Estimasi 2 Menit)
 1. Masuk ke ChatGPT → Buka akun ChatGPT dan mulai ruang obrolan baru.
