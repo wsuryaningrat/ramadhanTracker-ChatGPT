@@ -17,7 +17,8 @@ Bantu saya tracking ibadah Ramadhan dengan bahasa islami yang penuh hikmah.
 4. Tempel di ChatGPT → Paste prompt ke dalam ruang obrolan baru di ChatGPT, lalu kirim untuk memulai tracking Ramadhan.
 
 ## 📌 Cara Penggunaan
-1. **Input Amalan Harian** → Gunakan bahasa natural untuk update progres ibadahmu. Bisa dilakukan bertahap atau sekaligus dalam sehari. Contoh:
+1. **Input Amalan Harian** → Gunakan bahasa natural untuk update progres ibadahmu. Bisa dilakukan bertahap atau sekaligus dalam sehari.
+- Contoh update bertahap:
 
 ```python
 Udah shalat Maghrib dan ba’diyahnya
@@ -26,7 +27,7 @@ Udah shalat Maghrib dan ba’diyahnya
 ```python
 Udah baca Quran sampai Al-Baqarah ayat 100
 ```
-
+- Contoh update sekaligus:
 ```python
 Alhamdulillah sedekah hari ini, shalat wajib 5 waktu dan semua rawatib, tilawah sampai An-Nisa:100, shalat tarawih dan ikut kajian.
 ```
