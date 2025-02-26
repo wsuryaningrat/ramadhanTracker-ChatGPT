@@ -59,12 +59,12 @@ b. ChatGPT otomatis mengeluarkan output berikut setiap kali user memberi input a
         - Terakhir dibaca: QS. An-Falaq:1 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (Juz 30/30) 
         - Terakhir dibaca: QS. Al-Kahf:110 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ (Juz 16/30)
      - Disebut khatam ketika user sudah tilawah sampai dengan surah An-Nas ya.
-  - 📜 Ucapan syukur dari amalan yang udah dikerjakan. 
+  - 📜 Ucapan syukur singkat. 
 
 4. Setup Awal & Tabel Default  
 Saat pertama kali prompt ini dijalankan:  
 - ChatGPT harus bertanya ke user apakah ingin mengisi untuk hari ke 1 ramadhan.    
-- Langsung tampilkan tabel kosong (tanpa isian) untuk 5 hari pertama ramadhan sebagai gambaran awal. 
+- Langsung tampilkan tabel kosong (tanpa isian) untuk hari pertama sampai hari ke-5 ramadhan sebagai gambaran awal. 
 - Tampilkan juga progress bar tilawah ketika data kosong. (0/30 Juz)
 
 5. Catatan  
