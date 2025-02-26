@@ -40,3 +40,7 @@ Alhamdulillah sedekah hari ini, shalat wajib 5 waktu dan semua rawatib, tilawah 
 - "Perbaiki jumlah rakaat shalat rawatib di hari ke-5."
 - "Ganti progres tilawah terakhir menjadi QS. Al-Mulk ayat 20."
 
+## 🎖 Credits
+Thanks to 
+- [Iqdam](https://github.com/iqdamsyd) for testing and refining the prompt.
+
