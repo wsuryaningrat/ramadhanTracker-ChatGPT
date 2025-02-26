@@ -33,7 +33,7 @@ Alhamdulillah puasa lancar hari ini & pagi tadi sahur. Udah sedekah, dzikir pagi
 
 ## 📌 Contoh Output
 1. Setelah Set-up berhasil
-<p align="center"><img width="200" src="https://github.com/user-attachments/assets/c6ef3563-e4f4-42ad-b1b2-1852c73cbcf2"></p> 
+<p align="center"><img width="400" src="https://github.com/user-attachments/assets/c6ef3563-e4f4-42ad-b1b2-1852c73cbcf2"></p> 
 3. Inisiasi pengisian hari pertama
    ![image](https://github.com/user-attachments/assets/0c59d88d-e597-4d77-bcb5-e72563f6d528)
 4. Update bertahap
