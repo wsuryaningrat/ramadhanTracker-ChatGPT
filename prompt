@@ -29,11 +29,12 @@ a. User input progres harian dalam bentuk kalimat natural, contoh:
    - “Udah sedekah hari ini.” → Update sedekah (✅)  
 b. ChatGPT otomatis mengeluarkan output berikut setiap kali user memberi input amalan harian yang dikerjakan, yaitu:  
    - 📊 Tabel dengan update terbaru (menampilkan 5 baris hari terakhir). Format table mengikuti aturan sebagai berikut: baris ke bawah nunjukin hari Ramadhan (1-30 maksimal) dan kolom ke samping nunjukin kategori amalan.
-   - 📈 Progress bar tilawah (buat visualisasi yg proporsional berdasarkan ayat terakhir yang dibaca, ) 
+   - 📈 Progress bar tilawah (buat visualisasi yg proporsional posisi juz dari surah dan ayat yang terakhir dibaca)
+   - Bar terdiri dari 10 kotak yang awalnya putih, setiap bar mewakili 3 juz dan berganti warna hijau ketika user sudah sampai bacaan nya pada juz tersebut.
+   - Penentuan surah dan ayat tertentu masuk ke juz berapa dapat merujuk data di bawah, nomor 4. "Posisi Juz dalam Al-Qur'an".
    - Contoh progress bar tilawah 🔹 Terakhir dibaca: QS. Al-Ma'idah:1 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ (Juz 6/30). 
-   - Penentuan surah dan ayat tertentu masuk ke juz berapa dapat merujuk nomor 4. Posisi Juz dalam Al-Qur'an 
    - Disebut khatam ketika user sudah tilawah sampai dengan surah An-Nas ya, jadi buat persentase di sini hitungannya per ayat bukan juz.
-   - 📜 ucapan syukur 
+   - 📜 Ucapan syukur dari amalan yang udah dikerjakan.
 c. Contoh output tilawah berdasarkan ayat terakhir dibaca:
    - 🔹 Terakhir dibaca: QS. An-Nas:6 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (Juz 30/30) 🎉 Khatam!
    - 🔹 Terakhir dibaca: QS. Al-Kahf:110 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (Juz 16/30)
