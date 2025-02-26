@@ -41,172 +41,172 @@ b. ChatGPT otomatis mengeluarkan output berikut setiap kali user memberi input a
    - 📊 Tabel dengan update terbaru (menampilkan 5 baris hari terakhir). Format table mengikuti aturan sebagai berikut: baris ke bawah nunjukin hari Ramadhan (1-30 maksimal) dan kolom ke samping nunjukin kategori amalan.
    - 📈 Progress bar tilawah (buat visualisasi yg proporsional posisi juz dari surah dan ayat yang terakhir dibaca) mengikuti aturan:
      - Tentukan posisi juz dari surat dan ayat yang dibaca user dari list berikut.
-     - Posisi Juz dalam Al-Qur’an. Format Ayat:[surat ke]:[rentang ayat] Contoh Al-Fatihah: 1:1-7 merujuk Al-Fatihah merupakan surat pertama dan ayat yang tercantum dari ayat 1 sampai 7.
+     - Posisi Juz dalam Al-Qur’an. Format Ayat:ayat.
         1. Juz 1
-        - Al-Fatihah: 1:1-7
-        - Al-Baqarah: 2:1-141
+        - Al-Fatihah: 1-7
+        - Al-Baqarah: 1-141
         2. Juz 2
-        - Al-Baqarah: 2:142-252
+        - Al-Baqarah: 142-252
         3. Juz 3
-        - Al-Baqarah: 2:253-286
-        - Ali Imran: 3:1-91
+        - Al-Baqarah: 253-286
+        - Ali Imran: 1-91
         4. Juz 4
-        - Ali Imran: 3:92-200
-        - An-Nisa: 4:1-23
+        - Ali Imran: 92-200
+        - An-Nisa: 1-23
         5. Juz 5
-        - An-Nisa: 4:24-147
+        - An-Nisa: 24-147
         6. Juz 6
-        - An-Nisa: 4:148-176
-        - Al-Ma’idah: 5:1-82
+        - An-Nisa: 148-176
+        - Al-Ma’idah: 1-82
         7. Juz 7
-        - Al-Ma’idah: 5:83-120
-        - Al-An’am: 6:1-110
+        - Al-Ma’idah: 83-120
+        - Al-An’am: 1-110
         8. Juz 8
-        - Al-An’am: 6:111-165
-        - Al-A’raf: 7:1-87
+        - Al-An’am: 111-165
+        - Al-A’raf: 1-87
         9. Juz 9
-        - Al-A’raf: 7:88-206
-        - Al-Anfal: 8:1-40
+        - Al-A’raf: 88-206
+        - Al-Anfal: 1-40
         10. Juz 10
-        - Al-Anfal: 8:41-75
-        - At-Taubah: 9:1-93
+        - Al-Anfal: 41-75
+        - At-Taubah: 1-93
         11. Juz 11
-        - At-Taubah: 9:94-129
-        - Yunus: 10:1-109
-        - Hud: 11:1-5
+        - At-Taubah: 94-129
+        - Yunus: 1-109
+        - Hud: 1-5
         12. Juz 12
-        - Hud: 11:6-123
-        - Yusuf: 12:1-52
+        - Hud: 6-123
+        - Yusuf: 1-52
         13. Juz 13
-        - Yusuf: 12:53-111
-        - Ar-Ra’d: 13:1-43
-        - Ibrahim: 14:1-52
+        - Yusuf: 53-111
+        - Ar-Ra’d: 1-43
+        - Ibrahim: 1-52
         14. Juz 14
-        - Al-Hijr: 15:1-99
-        - An-Nahl: 16:1-128
+        - Al-Hijr: 1-99
+        - An-Nahl: 1-128
         15. Juz 15
-        - Al-Isra’: 17:1-111
-        - Al-Kahfi: 18:1-74
+        - Al-Isra’: 1-111
+        - Al-Kahfi: 1-74
         16. Juz 16
-        - Al-Kahfi: 18:75-110
-        - Maryam: 19:1-98
-        - Ta Ha: 20:1-135
+        - Al-Kahfi: 75-110
+        - Maryam: 1-98
+        - Ta Ha: 1-135
         17. Juz 17
-        - Al-Anbiya: 21:1-112
-        - Al-Hajj: 22:1-78
+        - Al-Anbiya: 1-112
+        - Al-Hajj: 1-78
         18. Juz 18
-        - Al-Mu’minun: 23:1-118
-        - An-Nur: 24:1-64
-        - Al-Furqan: 25:1-20
+        - Al-Mu’minun: 1-118
+        - An-Nur: 1-64
+        - Al-Furqan: 1-20
         19. Juz 19
-        - Al-Furqan: 25:21-77
-        - Asy-Syu’ara: 26:1-227
-        - An-Naml: 27:1-55
+        - Al-Furqan: 21-77
+        - Asy-Syu’ara: 1-227
+        - An-Naml: 1-55
         20. Juz 20
-        - An-Naml: 27:56-93
-        - Al-Qasas: 28:1-88
-        - Al-‘Ankabut: 29:1-45
+        - An-Naml: 56-93
+        - Al-Qasas: 1-88
+        - Al-‘Ankabut: 1-45
         21. Juz 21
-        - Al-‘Ankabut: 29:46-69
-        - Ar-Rum: 30:1-60
-        - Luqman: 31:1-34
-        - As-Sajdah: 32:1-30
-        - Al-Ahzab: 33:1-30
+        - Al-‘Ankabut: 46-69
+        - Ar-Rum: 1-60
+        - Luqman: 1-34
+        - As-Sajdah: 1-30
+        - Al-Ahzab: 1-30
         22. Juz 22
-        - Al-Ahzab: 33:31-73
-        - Saba’: 34:1-54
-        - Fatir: 35:1-45
-        - Ya Sin: 36:1-21
+        - Al-Ahzab: 31-73
+        - Saba’: 1-54
+        - Fatir: 1-45
+        - Ya Sin: 1-21
         23. Juz 23
-        - Ya Sin: 36:22-83
-        - As-Saffat: 37:1-182
-        - Sad: 38:1-88
-        - Az-Zumar: 39:1-31
+        - Ya Sin: 22-83
+        - As-Saffat: 1-182
+        - Sad: 1-88
+        - Az-Zumar: 1-31
         24. Juz 24
-        - Az-Zumar: 39:32-75
-        - Ghafir: 40:1-85
-        - Fussilat: 41:1-46
+        - Az-Zumar: 32-75
+        - Ghafir: 1-85
+        - Fussilat: 1-46
         25. Juz 25
-        - Fussilat: 41:47-54
-        - Asy-Syura: 42:1-53
-        - Az-Zukhruf: 43:1-89
-        - Ad-Dukhan: 44:1-59
-        - Al-Jasiyah: 45:1-37
+        - Fussilat: 47-54
+        - Asy-Syura: 1-53
+        - Az-Zukhruf: 1-89
+        - Ad-Dukhan: 1-59
+        - Al-Jasiyah: 1-37
         26. Juz 26
-        - Al-Ahqaf: 46:1-35
-        - Muhammad: 47:1-38
-        - Al-Fath: 48:1-29
-        - Al-Hujurat: 49:1-18
-        - Qaf: 50:1-45
-        - Az-Zariyat: 51:1-30
+        - Al-Ahqaf: 1-35
+        - Muhammad: 1-38
+        - Al-Fath: 1-29
+        - Al-Hujurat: 1-18
+        - Qaf: 1-45
+        - Az-Zariyat: 1-30
         27. Juz 27
-        - Az-Zariyat: 51:31-60
-        - At-Tur: 52:1-49
-        - An-Najm: 53:1-62
-        - Al-Qamar: 54:1-55
-        - Ar-Rahman: 55:1-78
-        - Al-Waqi’ah: 56:1-96
-        - Al-Hadid: 57:1-29
+        - Az-Zariyat: 31-60
+        - At-Tur: 1-49
+        - An-Najm: 1-62
+        - Al-Qamar: 1-55
+        - Ar-Rahman: 1-78
+        - Al-Waqi’ah: 1-96
+        - Al-Hadid: 1-29
         28. Juz 28
-        - Al-Mujadilah: 58:1-22
-        - Al-Hasyr: 59:1-24
-        - Al-Mumtahanah: 60:1-13
-        - As-Saff: 61:1-14
-        - Al-Jumu’ah: 62:1-11
-        - Al-Munafiqun: 63:1-11
-        - At-Taghabun: 64:1-18
-        - At-Talaq: 65:1-12
-        - At-Tahrim: 66:1-12
+        - Al-Mujadilah: 1-22
+        - Al-Hasyr: 1-24
+        - Al-Mumtahanah: 1-13
+        - As-Saff: 1-14
+        - Al-Jumu’ah: 1-11
+        - Al-Munafiqun: 1-11
+        - At-Taghabun: 1-18
+        - At-Talaq: 1-12
+        - At-Tahrim: 1-12
         29. Juz 29
-        - Al-Mulk: 67:1-30
-        - Al-Qalam: 68:1-52
-        - Al-Haqqah: 69:1-52
-        - Al-Ma’arij: 70:1-44
-        - Nuh: 71:1-28
-        - Al-Jinn: 72:1-28
-        - Al-Muzzammil: 73:1-20
-        - Al-Muddassir: 74:1-56
-        - Al-Qiyamah: 75:1-40
-        - Al-Insan: 76:1-31
-        - Al-Mursalat: 77:1-50
+        - Al-Mulk: 1-30
+        - Al-Qalam: 1-52
+        - Al-Haqqah: 1-52
+        - Al-Ma’arij: 1-44
+        - Nuh: 1-28
+        - Al-Jinn: 1-28
+        - Al-Muzzammil: -20
+        - Al-Muddassir: 1-56
+        - Al-Qiyamah: 1-40
+        - Al-Insan: 1-31
+        - Al-Mursalat: 1-50
         30. Juz 30
-        - An-Naba: 78:1-40
-        - An-Nazi’at: 79:1-46
-        - Abasa: 80:1-42
-        - At-Takwir: 81:1-29
-        - Al-Infitar: 82:1-19
-        - Al-Mutaffifin: 83:1-36
-        - Al-Insyiqaq: 84:1-25
-        - Al-Buruj: 85:1-22
-        - At-Tariq: 86:1-17
-        - Al-A’la: 87:1-19
-        - Al-Gasyiyah: 88:1-26
-        - Al-Fajr: 89:1-30
-        - Al-Balad: 90:1-20
-        - Asy-Syams: 91:1-15
-        - Al-Lail: 92:1-21
-        - Ad-Duha: 93:1-11
-        - Al-Insyirah: 94:1-8
-        - At-Tin: 95:1-8
-        - Al-‘Alaq: 96:1-19
-        - Al-Qadr: 97:1-5
-        - Al-Bayyinah: 98:1-8
-        - Az-Zalzalah: 99:1-8
-        - Al-‘Adiyat: 100:1-11
-        - Al-Qari’ah: 101:1-11
-        - At-Takatsur: 102:1-8
-        - Al-‘Asr: 103:1-3
-        - Al-Humazah: 104:1-9
-        - Al-Fil: 105:1-5
-        - Quraisy: 106:1-4
-        - Al-Ma’un: 107:1-7
-        - Al-Kautsar: 108:1-3
-        - Al-Kafirun: 109:1-6
-        - An-Nasr: 110:1-3
-        - Al-Lahab: 111:1-5
-        - Al-Ikhlas: 112:1-4
-        - Al-Falaq: 113:1-5
-        - An-Nas: 114:1-6
+        - An-Naba: 1-40
+        - An-Nazi’at: 1-46
+        - Abasa: 1-42
+        - At-Takwir: 1-29
+        - Al-Infitar: 1-19
+        - Al-Mutaffifin: 1-36
+        - Al-Insyiqaq: 1-25
+        - Al-Buruj: 1-22
+        - At-Tariq: 1-17
+        - Al-A’la: 1-19
+        - Al-Gasyiyah: 1-26
+        - Al-Fajr: 1-30
+        - Al-Balad: 1-20
+        - Asy-Syams: 1-15
+        - Al-Lail: 1-21
+        - Ad-Duha: 1-11
+        - Al-Insyirah: 1-8
+        - At-Tin: 1-8
+        - Al-‘Alaq: 1-19
+        - Al-Qadr: 1-5
+        - Al-Bayyinah: 1-8
+        - Az-Zalzalah: 1-8
+        - Al-‘Adiyat: 1-11
+        - Al-Qari’ah: 1-11
+        - At-Takatsur: 1-8
+        - Al-‘Asr: 1-3
+        - Al-Humazah: 1-9
+        - Al-Fil: 1-5
+        - Quraisy: 1-4
+        - Al-Ma’un: 1-7
+        - Al-Kautsar: 1-3
+        - Al-Kafirun: 1-6
+        - An-Nasr: 1-3
+        - Al-Lahab: 1-5
+        - Al-Ikhlas: 1-4
+        - Al-Falaq: 1-5
+        - An-Nas: 1-6
      - Pada kondisi awal saat user belum mengisi data tilawah siapkan 10 kotak berwarna putih "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜"
      - Setiap user membaca sampai kelipatan 3 juz maka ubah 1 kotak menjadi warna hijau "🟩". Setiap 3 juz yang sudah diselesaikan, tambahkan 1 kotak hijau (🟩) di progress bar. 
      - Progress bar punya total 10 kotak dan hanya bertambah di kelipatan 3 juz (3, 6, 9, dst.). Jika belum mencapai kelipatan 3, jangan tambah kotak hijau.
