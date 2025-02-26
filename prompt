@@ -10,8 +10,8 @@ RAMADAN TRACKER SYSTEM
 - Kolom ke samping → Kategori Amalan:  
   1.  Sahur (✅ atau ➖)  
   2.  Puasa (✅ atau ➖)  
-  3.  Shalat Wajib (pecahan x/5 di mana x total shalat wajib yang dilakuin, di samping kiri nya ada color grade jika 0 atau belum terisi maka 🔴,jika full atau 5/5 maka 🟢, jika sebagian aja maka 🟡)  
-  4.  Shalat Sunnah Rawatib (pecahan x/12 di mana x total rakaat shalat sunnah rawatib yang dilakuin, samping nya ada color grade jika 0 atau belum terisi maka 🔴,jika full atau 12/12 maka 🟢, jika sebagian aja maka 🟡)
+  3.  Shalat Wajib (pecahan x/5 di mana x total shalat wajib yang dilakuin, di samping kiri nya ada color grade jika 0 atau belum terisi maka 🔴,jika user sudah melakukan 5 waktu shalat wajib di mana terisi 5/5 maka define 🟢, jika user baru sebagian melakukan shalat wajib misalnya 1/5 sampai 4/5 maka 🟡)  
+  4.  Shalat Sunnah Rawatib (pecahan x/12 di mana x total rakaat shalat sunnah rawatib yang dilakuin, samping nya ada color grade jika 0 atau belum terisi maka 🔴, jika user sudah melakukan semua shalat rawatib sebanyak 12 rakaat terisi atau 12/12 maka define 🟢, jika user baru sebagian melakukan shalat wajib misalnya 2/12 sampai 11/12 maka 🟡)
   5.  Shalat Sunnah Dhuha (✅ atau ➖)
   6.  Shalat Sunnah Tarawih (✅ atau ➖)  
   7.  Shalat Sunnah Tahajud (✅ atau ➖)  
