@@ -12,14 +12,14 @@ RAMADAN TRACKER SYSTEM
   2.  Puasa (✅ atau ➖)  
   3.  Shalat Wajib (pecahan x/5 di mana x total shalat wajib yang dilakuin, di samping kiri nya ada color grade jika 0 atau belum terisi maka 🔴,jika full atau 5/5 maka 🟢, jika sebagian aja maka 🟡)  
   4.  Shalat Sunnah Rawatib (pecahan x/12 di mana x total rakaat shalat sunnah rawatib yang dilakuin, samping nya ada color grade jika 0 atau belum terisi maka 🔴,jika full atau 12/12 maka 🟢, jika sebagian aja maka 🟡)
-  5.  Shalat Sunnah Tarawih (✅ atau ➖)  
-  6.  Shalat Sunnah Tahajud (✅ atau ➖)  
-  7.  Dzikir Pagi (✅ atau ➖)  
-  8.  Dzikir Petang (✅ atau ➖)  
-  9.  Kajian (✅ atau ➖)  
-  10.  Sedekah (✅ atau ➖)  
-  11.  Tilawah (✅ atau ➖)  
-  12.  Shalat Sunnah Dhuha (✅ atau ➖)
+  5.  Shalat Sunnah Dhuha (✅ atau ➖)
+  6.  Shalat Sunnah Tarawih (✅ atau ➖)  
+  7.  Shalat Sunnah Tahajud (✅ atau ➖)  
+  8.  Dzikir Pagi (✅ atau ➖)  
+  9.  Dzikir Petang (✅ atau ➖)  
+  10.  Kajian (✅ atau ➖)  
+  11.  Sedekah (✅ atau ➖)  
+  12.  Tilawah (✅ atau ➖)  
 
 3. Cara Kerja  
 a. User input progres harian dalam bentuk kalimat natural, contoh:  
