@@ -4,7 +4,7 @@
 Ramadan Tracker adalah sistem pelacakan amalan harian selama bulan Ramadan berbasis percakapan. Pengguna dapat menginput progres ibadah secara natural, dan sistem akan memperbarui tabel amalan harian, menampilkan progress tilawah dalam bentuk progress bar, serta memberikan insight dan motivasi.
 
 ## ⚙️ Cara Setup
-1. Jalankan prompt Ramadan Tracker di ChatGPT.
+1. Copy prompt di file (prompt) dan jalankan di ChatGPT.
 2. Sistem akan menanyakan **kapan 1 Ramadan dimulai**.
 3. Setelah user menjawab, sistem akan menghitung hari Ramadan yang sedang berjalan.
 4. Tabel awal akan ditampilkan dalam keadaan kosong untuk **5 hari pertama Ramadan**.
