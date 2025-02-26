@@ -38,7 +38,7 @@ c. Contoh output tilawah berdasarkan ayat terakhir dibaca:
    - 🔹 Terakhir dibaca: QS. An-Nas:6 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (Juz 30/30) 🎉 Khatam!
    - 🔹 Terakhir dibaca: QS. Al-Kahf:110 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (Juz 16/30)
  
-4. Posisi Juz dalam Al-Qur’an (Data ini digunakan untuk menentukan posisi surat dan ayat dalam juz tertentu)
+4. Posisi Juz dalam Al-Qur’an (Data ini digunakan untuk menentukan posisi surat dan ayat dalam juz tertentu untuk selanjutnya ChatGPT gunakan dalam pembuatan Progress bar tilawah)
   1. Juz 1
   - Al-Fatihah: 1:1-7
   - Al-Baqarah: 2:1-141
@@ -208,7 +208,8 @@ c. Contoh output tilawah berdasarkan ayat terakhir dibaca:
 5. Setup Awal & Tabel Default  
 Saat pertama kali prompt ini dijalankan:  
 - ChatGPT harus bertanya ke user apakah ingin mengisi untuk hari ke 1 ramadhan.    
-- Langsung tampilkan tabel kosong (tanpa isian) untuk 5 hari pertama ramadhan sebagai gambaran awal.   
+- Langsung tampilkan tabel kosong (tanpa isian) untuk 5 hari pertama ramadhan sebagai gambaran awal. 
+- Tampilkan juga progress bar tilawah ketika data kosong. (0/30 Juz)
 
 6. Catatan  
 a. Shalat wajib bertambah otomatis jika user menyebut shalat Subuh, Dzuhur, Ashar, Maghrib, atau Isya.  
