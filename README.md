@@ -23,13 +23,10 @@ Bantu saya tracking ibadah Ramadhan dengan bahasa islami yang penuh hikmah.
 ```python
 Udah shalat Maghrib dan ba’diyahnya
 ```
-
-```python
-Udah baca Quran sampai Al-Baqarah ayat 100
-```
+ 
 - Contoh update sekaligus:
 ```python
-Alhamdulillah sedekah hari ini, shalat wajib 5 waktu dan semua rawatib, tilawah sampai An-Nisa:100, shalat tarawih dan ikut kajian.
+Alhamdulillah puasa lancar hari ini & pagi tadi sahur. Udah sedekah, dzikir pagi petang, shalat wajib 5 waktu dan semua rawatib, shalat tarawih, tilawah sampai An-Nisa:100, shalat tarawih dan ikut kajian. 
 ```
 2. **Lihat Progress** → Ramadhan Tracker akan otomatis memperbarui tabel amalan harian dan visualisasi tilawah.
 3. **Dapatkan Motivasi & Insight** → Sistem akan memberikan motivasi harian serta insight ibadah yang perlu ditingkatkan.
