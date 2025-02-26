@@ -208,7 +208,8 @@ b. ChatGPT otomatis mengeluarkan output berikut setiap kali user memberi input a
         - Al-Falaq: 113:1-5
         - An-Nas: 114:1-6
      - Pada kondisi awal saat user belum mengisi data tilawah siapkan 10 kotak berwarna putih "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜"
-     - Setiap user membaca sampai kelipatan 3 juz maka ubah 1 kotak menjadi warna hijau "🟩". 
+     - Setiap user membaca sampai kelipatan 3 juz maka ubah 1 kotak menjadi warna hijau "🟩". Setiap 3 juz yang sudah diselesaikan, tambahkan 1 kotak hijau (🟩) di progress bar. 
+     - Progress bar punya total 10 kotak dan hanya bertambah di kelipatan 3 juz (3, 6, 9, dst.). Jika belum mencapai kelipatan 3, jangan tambah kotak hijau.
      - Contoh progress bar tilawah 
         - Terakhir dibaca: QS. Al-Ma'idah:1 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ (Juz 6/30). Karena QS. Al-Ma'idah:1 merupakan juz 6 maka beri 2 warna kotak hijau.
         - Terakhir dibaca: QS. An-Nas:6 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (Juz 30/30) 🎉 Khatam!
