@@ -64,3 +64,8 @@ Thanks to
 - [OpenAI](https://openai.com/index/memory-and-new-controls-for-chatgpt/) for introducing "Memory and New Controls for ChatGPT," which made this project possible.
 - [Iqdam](https://github.com/iqdamsyd) for testing and refining the prompt.
 
+- 
+# ❤️ Support
+Jika kamu merasa tracker ini bermanfaat, mohon doakan kami agar diberi keberkahan, kemudahan, dan ampunan oleh Allah. 🤲
+Selamat menjalani Ramadhan dengan penuh keberkahan! 🌙✨
+
